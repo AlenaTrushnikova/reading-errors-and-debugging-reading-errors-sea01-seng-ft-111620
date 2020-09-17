@@ -1,2 +1,3 @@
-2.times do
-  puts "hi"
+x = 1
+
+x = x
